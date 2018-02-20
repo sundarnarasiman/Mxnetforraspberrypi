@@ -9,5 +9,7 @@ b)Unzip the contents of mxnet.zip
 unzip mxnet.zip
 
 c)Navigate to python folder under mxnet
+  cd mxnet/python
+d)pip install --upgrade pip
 
-d)
+e)sudo pip install -e .
