@@ -21,4 +21,4 @@ unzip mxnet.zip
 
 ### f)sudo pip install -e .
 
-
+### This ends the instruction
